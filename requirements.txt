@@ -1,0 +1,23 @@
+# Core UI
+streamlit
+
+# LangChain ecosystem
+langchain_groq            # ChatGroq LLM
+langchain_huggingface     # HuggingFaceEmbeddings (runs locally, no API key needed)
+langchain_community       # PyPDFDirectoryLoader, FAISS vector store
+langchain_core            # Document, ChatPromptTemplate, VectorStoreRetriever
+langchain_text_splitters  # RecursiveCharacterTextSplitter
+langchain_classic         # create_stuff_documents_chain, create_retrieval_chain
+langchain
+# Vector store backend
+faiss-cpu
+langchain_chroma
+
+# PDF parsing (in-memory, no temp files)
+pypdf
+
+# Environment variable loading
+python-dotenv
+
+torchvision
+sentence-transformers
