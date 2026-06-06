@@ -213,16 +213,6 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ---
 
-## 🙏 Acknowledgements
-
-- [Krish Naik](https://github.com/krishnaik06) — Course inspiration and LangChain guidance
-- [LangChain](https://www.langchain.com/) — RAG framework
-- [Groq](https://groq.com/) — Ultra-fast LLM inference
-- [Streamlit](https://streamlit.io/) — Rapid ML app deployment
-- [HuggingFace](https://huggingface.co/) — Open-source embeddings
-
----
-
 <div align="center">
   <sub>Built with ❤️ using LangChain · Groq · ChromaDB · Streamlit</sub>
 </div>
